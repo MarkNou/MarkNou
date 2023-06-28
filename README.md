@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MarkNou
+- I'm a full-stack developer specialzing in React.js, Ruby on Rails, Tailwind, and constantly learning new languages.
+- Check out my portfolio @ https://marknou.netlify.app/
